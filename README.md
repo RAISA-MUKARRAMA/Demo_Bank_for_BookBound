@@ -93,10 +93,22 @@ The frontend will run on:
 
 Run all projects in this order:
 
-1️⃣ **BookBound Backend** → [http://localhost:5002](http://localhost:5002)
-2️⃣ **BookBound Frontend** → [http://localhost:3002](http://localhost:3002)
-3️⃣ **Bank Backend** → [http://localhost:6002](http://localhost:6002)
-4️⃣ **Bank Frontend** → [http://localhost:7002](http://localhost:7002)
+- 1️⃣ **BookBound Backend** → [http://localhost:5002](http://localhost:5002)
+- 2️⃣ **BookBound Frontend** → [http://localhost:3002](http://localhost:3002)
+- 3️⃣ **Bank Backend** → [http://localhost:6002](http://localhost:6002)
+- 4️⃣ **Bank Frontend** → [http://localhost:7002](http://localhost:7002)
+
+🧪 Demo Bank Account (Ready to Use)
+-----------------------------------
+
+You can use this **demo account** already stored in the database:
+
+*   **Account No:** 987654321
+    
+*   **PIN:** 123456
+    
+
+⚠️ **Do NOT use the account no: 123456789** — it is reserved for the BookBound website and should not be used for testing manually.
 
 🎉 You're Ready to Use the Full BookBound + Bank System!
 ========================================================
