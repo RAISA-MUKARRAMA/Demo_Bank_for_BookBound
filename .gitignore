@@ -1,0 +1,22 @@
+# Node
+node_modules/
+bank-backend/node_modules/
+bankforbookbound/node_modules/
+
+# Environment
+.env
+.env.local
+bank-backend/.env
+bankforbookbound/.env.local
+
+# Build output
+bankforbookbound/build/
+bank-backend/dist/
+
+# Logs
+*.log
+
+# System
+.DS_Store
+
+
